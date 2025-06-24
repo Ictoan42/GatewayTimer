@@ -7,7 +7,7 @@
   ],
   "client": [
     "client.MerchantScreenMixin",
-    "client.EndGatewayBlockEntityMixin"
+    "client.TeleportConfirmC2SPacketMixin"
   ],
   "injectors": {
     "defaultRequire": 1
